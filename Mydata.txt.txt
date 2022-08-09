@@ -1,5 +1,6 @@
 git push commands
 
+// These are the git commands to push the code
 git remote add origin https://github.com/Ravi-39/Ravi-Git_learning.git
 git branch -M main
 git push -u origin main
